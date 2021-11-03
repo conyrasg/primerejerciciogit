@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.caja1{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin-left: 20px;
+    margin-top: 50px;
+    display: inline-block;
+}
+.caja2{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    margin-left: 20px;
+    margin-top: 50px;
+    display: inline-block;
+}
+.caja3{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin-left: 20px;
+    margin-top: 50px;
+    display: inline-block;
+}
+.caja4{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin-left: 20px;
+    margin-top: 50px;
+    display: inline-block;
+}
+#primero{
+    color: yellow;
+}
+#segundo{
+    color: white;
+}
+#tercero{
+    color: yellow;
+}
+#cuarto{
+    color: yellow;
+}
